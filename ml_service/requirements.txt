@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+textblob
+celery
+redis
+pydantic
